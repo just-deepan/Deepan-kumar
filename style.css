@@ -504,12 +504,12 @@ footer p {
     .section__pic-container img {
         width:350px;
         height: 350px;
-        margin: 40px
     }
 
     .section__pic-container{
         width: 350px;
         height: 350px;
+        transform: translateX(-20px);
     }
 
     .btn {
@@ -522,7 +522,11 @@ footer p {
         margin: 0 1rem;
         margin-top: 5vh;
         margin-bottom: 5vh;
-        height: 950px
+        height: 750px
+    }
+
+    #contact {
+        height: 550px
     }
 
     .about-containers, .about-details-container {
