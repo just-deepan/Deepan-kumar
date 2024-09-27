@@ -504,6 +504,7 @@ footer p {
     .section__pic-container img {
         width:350px;
         height: 350px;
+        margin: 40px
     }
 
     .section__pic-container{
