@@ -522,6 +522,7 @@ footer p {
         margin: 0 1rem;
         margin-top: 5vh;
         margin-bottom: 5vh;
+        height: 950px
     }
 
     .about-containers, .about-details-container {
@@ -549,5 +550,8 @@ footer p {
     }
     .section__text {
         width: 350px;
+    }
+    #contact {
+        justify-content: flex-end;
     }
 }
